@@ -1,6 +1,6 @@
 
 workflows:
-  build_app:
+  android-workflow:
     name: Build solo leveling app
     environment:
       flutter: "3.13.9" 
